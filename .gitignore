@@ -21,6 +21,13 @@ result/
 .ipynb_checkpoints/
 training_checkpoints/
 
+# 大文件
+usda_food_database.json
+
+# 数据文件夹
+fec/
+
+
 static/
 logs/
 SQLData/
